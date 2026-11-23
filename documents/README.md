@@ -44,7 +44,8 @@
 24. [Pontos de atenção e decisões pendentes](#24-pontos-de-atenção-e-decisões-pendentes)
 25. [Glossário](#25-glossário)
 26. [Orientação para apresentação no mini TCC](#26-orientação-para-apresentação-no-mini-tcc)
-27. [Histórico de revisões](#27-histórico-de-revisões)
+27. [Créditos](#27-créditos)
+28. [Histórico de revisões](#28-histórico-de-revisões)
 
 ---
 
@@ -1717,7 +1718,16 @@ A divisão é uma sugestão. A equipe deve ajustar as responsabilidades de acord
 
 ---
 
-# 27. Histórico de revisões
+# 27. Créditos
+
+| Integrante | Contribuições |
+|---|---|
+| `mrtxdev` | Estrutura do projeto, infraestrutura e back-end. |
+| `smallDns` | Python e front-end. |
+
+---
+
+# 28. Histórico de revisões
 
 | Versão | Data | Descrição |
 |---|---|---|

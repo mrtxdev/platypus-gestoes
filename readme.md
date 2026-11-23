@@ -18,6 +18,7 @@ Sistema web para gestão de restaurante. O projeto reúne cardápio digital aces
 - [Fluxo de pedidos](#fluxo-de-pedidos)
 - [Publicação e manutenção](#publicação-e-manutenção)
 - [Manutenção e solução de problemas](#manutenção-e-solução-de-problemas)
+- [Créditos](#créditos)
 - [Boas práticas](#boas-práticas)
 
 ## Visão geral
@@ -203,6 +204,11 @@ O endpoint `view/public/client.order.status.php` é utilizado para consultar o a
 - **Imagens não aparecem ou não podem ser enviadas:** verifique permissões de escrita da pasta de imagens e os limites de upload do PHP.
 - **Alterações de estilo não aparecem:** atualize a página sem o cache do navegador; as páginas incluem um identificador de versão no CSS.
 - **Acesso negado:** confira o perfil associado ao usuário e as permissões definidas no roteador.
+
+## Créditos
+
+- **mrtxdev:** estrutura do projeto, infraestrutura e back-end.
+- **smallDns:** Python e front-end.
 
 ## Boas práticas
 
