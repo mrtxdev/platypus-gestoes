@@ -1,0 +1,9 @@
+
+RewriteEngine On
+RewriteBase /platypus_gestoes/
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+RewriteRule ^(.+)$ router.php?pagina=$1 [QSA,L]
